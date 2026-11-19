@@ -9,7 +9,7 @@ Ja, das ist sehr gut!
 
 And that's really all there is to it.
 
-This page can be viewed at <https://keithnewman.github.io/ente/>
+This page can be viewed at <https://keithnewman.github.io/Ente/>
 
 ### License
 
